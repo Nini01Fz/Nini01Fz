@@ -1,4 +1,4 @@
-# Hi there, I'm Fatima Ezzahra 👋
+# Hi there, I'm Fatima Ezzahra 
 
 🎓 Master's Student in Information Systems & Artificial Intelligence (SIIA) at FPK, Morocco.
 
@@ -29,6 +29,18 @@ A web-based platform featuring classic games and interactive experiences.
 Glioma MRI segmentation using 3D U-Net on BraTS2019 and BraTS-Africa datasets.
 
 [View Repository](https://github.com/Nini01Fz/PFA-Glioma-Segmentation)
+
+### 🎓 Espace Étudiant – ECOSIG
+
+A web-based student management platform developed during my internship at ECOSIG.
+
+- Student registration and account access.
+- Password management.
+- Student information and academic data management.
+
+**Technologies:** PHP · MySQL · HTML · CSS · JavaScript
+
+[View Repository](https://github.com/Nini01Fz/Espace-Etudiant-ECOSIG)
 
 ## 📫 Connect with Me
 - [LinkedIn](https://www.linkedin.com/in/nini-fatima-ezzahra-30aa50298/)
